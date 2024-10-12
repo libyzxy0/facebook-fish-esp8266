@@ -2,7 +2,7 @@
 
 A program that uses a captive portal to phish Facebook accounts when users connect to the WiFi network.
 
-> ⚠️ [!WARNING] 
+> [!WARNING] 
 > This project is strictly for **educational purposes only**. Unauthorized use of this captive portal phishing technique for malicious intent is **illegal** and punishable by law. I assume no liability for any misuse of this code. Users are fully responsible for adhering to ethical guidelines and legal regulations in their jurisdiction.
 
 ## License
